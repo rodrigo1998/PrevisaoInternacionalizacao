@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Threads JSON</string>
+    <string name="description">Description</string>
+    <string name="min">Minimum</string>
+    <string name="max">Maximum</string>
+    <string name="search">Chercher</string>
+    <string name="delete">Supprimer</string>
+    <string name="update">Mettre</string>
+</resources>
